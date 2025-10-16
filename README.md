@@ -9,11 +9,11 @@
 
 ## 🚀 About Me  
 
-I'm a **Change & Transformation professional** with 3 years of experience driving enterprise IT transformations and data-driven decision-making.  
-Currently pursuing my **MSc in Business Analytics** at the **University of Limerick**, I specialize in building solutions that connect technology, analytics, and business outcomes.  
+I'm a **Change & Transformation professional** with 3 years of experience integrating **business process improvement** and **data analytics** to drive enterprise-scale transformations.  
+Currently pursuing my **MSc in Business Analytics** at the **University of Limerick**, I combine analytical problem-solving with change management expertise to help organisations make smarter, data-driven decisions.  
 
-💼 **What I do best:** Deliver structured change management, process automation, and KPI-based insights.  
-📊 **Tools I love:** Power BI, Python, SQL, and Excel.  
+💼 **What I do best:** Turning change performance data into insights that guide strategy, automation, and stakeholder alignment.  
+📊 **Analytical edge:** Skilled in designing KPI frameworks, building Power BI dashboards, and deriving trend insights to improve decision outcomes.  
 🤖 **What I’m exploring:** AI-driven analytics, automation pipelines, and financial data modeling.  
 
 ---
@@ -31,10 +31,10 @@ Currently pursuing my **MSc in Business Analytics** at the **University of Limer
 
 ### 🏢 **Infosys** | Change & Release Manager *(Aug 2021 – Jul 2024)*  
 - Delivered end-to-end change management for 1000+ monthly releases with **100% audit compliance**.  
-- Reduced post-change incidents by **12%** through data-driven analysis.  
-- Automated reporting templates — cutting turnaround time by **30%**.  
-- Designed KPI dashboards in **Power BI** and Excel to monitor SLAs and performance.  
-- Facilitated global CAB meetings to drive risk-informed decision-making.  
+- Integrated analytics into change governance — designed **KPI dashboards in Power BI** and **SQL-driven insights** to identify trends, predict risk, and monitor SLAs.  
+- Automated recurring reports, reducing manual effort and improving turnaround by **30%**.  
+- Conducted post-implementation analysis using Excel and Python to detect recurring failure patterns, achieving a **12% drop in post-change incidents**.  
+- Collaborated with cross-functional teams to align transformation initiatives with operational KPIs and business priorities.  
 
 ---
 
@@ -61,39 +61,20 @@ Used **GLM, Random Forest, and Gradient Boosting** models to predict Irish prope
 ## 🧰 Tech Stack & Tools  
 
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
 ---
 
-## 📊 Current Interests  
-
-- Building data pipelines (Azure, ADF, Databricks)  
-- Financial & ESG analytics (Student Managed Fund @ UL)  
-- Process automation using Python & SQL  
-- AI applications for data governance and decision-making  
-
----
-
-## ⚡ Fun Side  
-
-🥊 Boxing • ⚽ Football • 📈 Managing the **UL Student Managed Fund (SMF)**  
-🌱 Exploring sustainability & ESG-aligned investment strategies  
-
----
-
-## 📈 GitHub Stats  
-
-![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YogeshSivakumar18&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshSivakumar18&layout=compact&theme=tokyonight)
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="coding animation">
+</p>
 
 ⭐ *“Turning data into direction, and insights into impact.”*
