@@ -30,7 +30,7 @@ Currently pursuing my MSc in Business Analytics at the University of Limerick, I
 
 ### 🏢 Infosys | Change & Release Manager (Aug 2021 – Jul 2024)  
 - Delivered end-to-end change management for 1000+ monthly releases with 100% audit compliance.  
-- Integrated analytics into change governance, designed KPI dashboards in Power BI and SQL-driven insights to identify trends, predict risk, and monitor SLAs.  
+- Integrated analytics into change governance — designed KPI dashboards in Power BI and SQL-driven insights to identify trends, predict risk, and monitor SLAs.  
 - Automated recurring reports, reducing manual effort and improving turnaround by 30%.  
 - Conducted post-implementation analysis using Excel and Python to detect recurring failure patterns, achieving a 12% drop in post-change incidents.  
 - Collaborated with cross-functional teams to align transformation initiatives with operational KPIs and business priorities.  
@@ -73,7 +73,7 @@ Used GLM, Random Forest, and Gradient Boosting models to predict Irish property 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashwink27/ashwink27/main/assets/coding.gif" width="400" alt="coding animation">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="coding animation">
 </p>
 
 ⭐ Turning data into direction, and insights into impact.
