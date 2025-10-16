@@ -10,7 +10,7 @@
 ## 🚀 About Me  
 
 I'm a Change & Transformation professional with 3 years of experience integrating business process improvement and data analytics to drive enterprise-scale transformations.  
-Currently pursuing my MSc in Business Analytics at the University of Limerick, I combine analytical problem-solving with change management expertise to help organisations make smarter, data-driven decisions.  
+As an MSc Business Analytics graduate from the University of Limerick, I combine analytical problem-solving with change management expertise to help organisations make smarter, data-driven decisions.  
 
 💼 What I do best: Turning change performance data into insights that guide strategy, automation, and stakeholder alignment.  
 📊 Analytical edge: Skilled in designing KPI frameworks, building Power BI dashboards, and deriving trend insights to improve decision outcomes.  
