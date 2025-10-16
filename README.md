@@ -14,7 +14,6 @@ Currently pursuing my MSc in Business Analytics at the University of Limerick, I
 
 💼 What I do best: Turning change performance data into insights that guide strategy, automation, and stakeholder alignment.  
 📊 Analytical edge: Skilled in designing KPI frameworks, building Power BI dashboards, and deriving trend insights to improve decision outcomes.  
-🤖 What I’m exploring: AI-driven analytics, automation pipelines, and financial data modeling.  
 
 ---
 
@@ -31,7 +30,7 @@ Currently pursuing my MSc in Business Analytics at the University of Limerick, I
 
 ### 🏢 Infosys | Change & Release Manager (Aug 2021 – Jul 2024)  
 - Delivered end-to-end change management for 1000+ monthly releases with 100% audit compliance.  
-- Integrated analytics into change governance — designed KPI dashboards in Power BI and SQL-driven insights to identify trends, predict risk, and monitor SLAs.  
+- Integrated analytics into change governance, designed KPI dashboards in Power BI and SQL-driven insights to identify trends, predict risk, and monitor SLAs.  
 - Automated recurring reports, reducing manual effort and improving turnaround by 30%.  
 - Conducted post-implementation analysis using Excel and Python to detect recurring failure patterns, achieving a 12% drop in post-change incidents.  
 - Collaborated with cross-functional teams to align transformation initiatives with operational KPIs and business priorities.  
