@@ -30,9 +30,9 @@ As an MSc Business Analytics graduate from the University of Limerick, I combine
 
 ### 🏢 Infosys | Change & Release Manager (Aug 2021 – Jul 2024)  
 - Delivered end-to-end change management for 1000+ monthly releases with 100% audit compliance.  
-- Integrated analytics into change governance — designed KPI dashboards in Power BI and SQL-driven insights to identify trends, predict risk, and monitor SLAs.  
+- Integrated analytics into change governance, designed KPI dashboards in Power BI and SQL-driven insights to identify trends, predict risk, and monitor SLAs.  
 - Automated recurring reports, reducing manual effort and improving turnaround by 30%.  
-- Conducted post-implementation analysis using Excel and Python to detect recurring failure patterns, achieving a 12% drop in post-change incidents.  
+- Conducted post-implementation analysis using Excel and Power BI to detect recurring failure patterns, achieving a 12% drop in post-change incidents.  
 - Collaborated with cross-functional teams to align transformation initiatives with operational KPIs and business priorities.  
 
 ---
